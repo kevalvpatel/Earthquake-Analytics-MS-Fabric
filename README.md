@@ -9,12 +9,12 @@ This project uses the USGS Earthquake API to build an end to end data solution u
 ###### PowerBI 
 
 
-### Project Architecture sharing below:
+### Project Architecture:
 ![](img/architecture.png)
 
-#### Here is the data pipeline screenshot
+#### Here is the data pipeline screenshot:
 ![](img/pipeline.png)
 
 
-#### Here is the Power BI Report
+#### Here is the Power BI Report:
 ![](img/report.png)
