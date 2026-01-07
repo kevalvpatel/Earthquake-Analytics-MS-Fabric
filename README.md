@@ -18,3 +18,4 @@ This project uses the USGS Earthquake API to build an end to end data solution u
 
 #### Here is the Power BI Report:
 ![](img/report.png)
+ 
